@@ -1,5 +1,6 @@
 # 💫 About Me:
-# Hi, I'm Abhishek Saini 👋<br><br>I am passionate about DevOps, Cloud Computing, Linux, and Infrastructure Automation. I enjoy building scalable and automated solutions using modern DevOps tools and practices.
+# Hi, I'm Abhishek Saini 👋
+I am passionate about DevOps, Cloud Computing, Linux, and Infrastructure Automation. I enjoy building scalable and automated solutions using modern DevOps tools and practices.
 
 ### 🛠️ Skills & Technologies
 
