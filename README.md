@@ -1,5 +1,20 @@
 # 💫 About Me:
-# Hi, I'm Abhishek Saini 👋<br><br>I am passionate about DevOps, Cloud Computing, Linux, and Infrastructure Automation. I enjoy building scalable and automated solutions using modern DevOps tools and practices.Operating Systems:Linux (Ubuntu),Windows Server Cloud Platforms:AWS (EC2, S3, IAM, VPC, Auto Scaling, Load Balancer) DevOps Tools:Docker,Kubernetes,Jenkins,Terraform,Git,GitHub,Ansible CI/CD:Jenkins Pipelines,GitHub Actions Monitoring:Prometheus,Grafana Scripting:Bash Shell Scripting Networking: TCP/IP,DNS,HTTP/HTTPS,Load Balancing Projects: Dockerized Nginx Web Application,Three-Tier Architecture
+# Hi, I'm Abhishek Saini 👋<br><br>I am passionate about DevOps, Cloud Computing, Linux, and Infrastructure Automation. I enjoy building scalable and automated solutions using modern DevOps tools and practices.
+
+### 🛠️ Skills & Technologies
+
+* **Operating Systems:** Linux (Ubuntu), Windows Server
+* **Cloud Platforms:** AWS (EC2, S3, IAM, VPC, Auto Scaling, Load Balancer)
+* **DevOps Tools:** Docker, Kubernetes, Jenkins, Terraform, Git, GitHub, Ansible
+* **CI/CD:** Jenkins Pipelines, GitHub Actions
+* **Monitoring:** Prometheus, Grafana
+* **Scripting:** Bash Shell Scripting
+* **Networking:** TCP/IP, DNS, HTTP/HTTPS, Load Balancing
+
+### 🚀 Projects
+
+* Dockerized Nginx Web Application
+* Three-Tier Architecture
 
 
 ## 🌐 Socials:
