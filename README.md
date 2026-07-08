@@ -16,6 +16,7 @@ I am passionate about DevOps, Cloud Computing, Linux, and Infrastructure Automat
 
 * Dockerized Nginx Web Application
 * Three-Tier Architecture
+* Enterprise-ci-cd-pipeline-jenkins-docker-kubernetes
 
 
 ## 🌐 Socials:
