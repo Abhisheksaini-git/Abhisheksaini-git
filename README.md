@@ -12,29 +12,17 @@ I am passionate about DevOps, Cloud Computing, Linux, and Infrastructure Automat
 * **Scripting:** Bash Shell Scripting
 * **Networking:** TCP/IP, DNS, HTTP/HTTPS, Load Balancing
 
-### 🚀 Projects
-
-* Dockerized Nginx Web Application
-* Three-Tier Architecture
-* Enterprise-ci-cd-pipeline-jenkins-docker-kubernetes
-
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abhisheksainiii)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhisheksaini-devops/)
-
-[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:abhishek.sainiii@outlook.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abhisheksaiini/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhisheksaini-devops/) [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:abhishek.sainiii@outlook.com) [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AbhishekSa74719) [![Portfolio](https://img.shields.io/badge/Portfolio-DevOps%20Engineer-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://abhishek-devops-portfolio.vercel.app/)
 
 
 ## ☁️ AWS
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws" />
 </p>
 
 ## ⚙️ DevOps Tools
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,ansible,git,githubactions,linux,bash,prometheus,grafana,nginx" />
 </p>
