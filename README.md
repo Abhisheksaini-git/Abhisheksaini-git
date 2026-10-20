@@ -24,7 +24,7 @@ I am passionate about DevOps, Cloud Computing, Linux, and Infrastructure Automat
 
 ## ⚙️ DevOps Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,ansible,git,githubactions,linux,bash,prometheus,grafana,nginx" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,ansible,argocd,git,githubactions,linux,bash,prometheus,grafana,nginx" />
 </p>
 
 # 📊 GitHub Stats:
