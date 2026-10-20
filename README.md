@@ -24,7 +24,7 @@ I am passionate about DevOps, Cloud Computing, Linux, and Infrastructure Automat
 
 ## ⚙️ DevOps Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,ansible,git,github,githubactions,linux,bash,prometheus,grafana,nginx" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,ansible,git,github,linux,bash,prometheus,githubactions,grafana,nginx" />
   <img src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png" height="48" alt="Argo CD" />
 </p>
 
